@@ -13,7 +13,7 @@ In order to run this project note:
 
 Within this repository, the directory structure is organized as follows:
 
-
+```
 Desktop/DL/
 │
 ├── data/
@@ -57,7 +57,7 @@ Desktop/DL/
 │       └── tinybert_student_full_from_roberta_hf.pt
 │
 └── Adv_DL - Final [IPYNB].ipynb
-
+```
 
 **Instructions for Model Files**
 
@@ -75,18 +75,19 @@ If necessary, update the file paths in Adv_DL - Final [IPYNB].ipynb to match you
 
 **Alternative Setup**
 
-Alternatively, the entire Desktop/DL folder — including model files, data, and notebook — can be downloaded directly from a mail we swnt, as well as the drive. 
+Alternatively, the entire Desktop/DL folder — including model files, data, and notebook — can be downloaded directly from the mail we sent (there it is named 'Project_Files'). 
 As long as the original folder hierarchy is preserved, the notebook can be run locally without modification.
-
 No installation or manual folder placement is required beyond ensuring dependencies are installed and paths remain consistent.
 
 
 **Additional Files (For Completeness)**
 
 The repository also includes the following files, which are *not required to run the pipeline*, but are provided for documentation, reproducibility, and grading purposes:
+```
 │
 ├── Adv_DL - Final [PDF].pdf            # Final notebook (PDF version)
 ├── Adv_DL - Final [Py].py              # Exported notebook as .py script
 ├── Optuna_Trials.zip                   # Logged results from hyperparameter optimization
 ├── Report [PDF].pdf                    # Final written report (PDF)
 ├── Report [Word].docx                  # Final written report (editable Word version)
+```
